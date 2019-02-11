@@ -5,7 +5,7 @@ private -> public
 
 작품 시연 연상 : https://www.youtube.com/watch?v=7OROxq_otls&t=2s
 
-프로젝트 참여자 : 김윤규(1)
+프로젝트 참여자 : 김윤규(1명)
 
 [작품 소개]
  

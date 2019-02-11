@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_friend">친구</string>
+    <string name="title_chat">채팅</string>
+    <string name="title_sns">SNS</string>
+    <string name="title_help">고객센터</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_group_chatting_room">GroupChattingRoomActivity</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>

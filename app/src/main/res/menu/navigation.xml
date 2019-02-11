@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_friend"
+        android:icon="@drawable/ic_baseline_person_24px"
+        android:title="@string/title_friend" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/ic_baseline_chat_bubble_24px"
+        android:title="@string/title_chat" />
+
+    <item
+        android:id="@+id/navigation_sns"
+        android:icon="@drawable/ic_baseline_supervisor_account_24px"
+        android:title="@string/title_sns" />
+
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/ic_baseline_help_24px"
+        android:title="@string/title_help" />
+
+    <item
+        android:id="@+id/navigation_game"
+        android:icon="@drawable/ic_outline_videogame_asset_24px"
+        android:title="게임" />
+
+</menu>

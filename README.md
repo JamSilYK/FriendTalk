@@ -3,7 +3,7 @@ private -> public
 
 작품이름 : Friend Talk
 
-작품 시연 연상 : https://www.youtube.com/watch?v=7OROxq_otls&t=2s
+작품 시연 상 : https://www.youtube.com/watch?v=7OROxq_otls&t=2s
 
 프로젝트 참여자 : 김윤규(1명)
 
